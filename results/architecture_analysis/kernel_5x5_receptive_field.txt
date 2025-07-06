@@ -1,0 +1,2 @@
+Layer 1: conv | kernel=5, stride=1, padding=2 | RF=5
+Layer 2: pool | kernel=2, stride=2, padding=0 | RF=6

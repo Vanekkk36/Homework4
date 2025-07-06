@@ -1,0 +1,7 @@
+Layer 1: conv | kernel=3, stride=1, padding=1 | RF=3
+Layer 2: conv | kernel=3, stride=1, padding=1 | RF=5
+Layer 3: conv | kernel=3, stride=1, padding=1 | RF=7
+Layer 4: conv | kernel=3, stride=1, padding=1 | RF=9
+Layer 5: conv | kernel=3, stride=1, padding=1 | RF=11
+Layer 6: conv | kernel=3, stride=1, padding=1 | RF=13
+Layer 7: pool | kernel=2, stride=2, padding=0 | RF=14

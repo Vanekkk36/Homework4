@@ -1,0 +1,4 @@
+model,test_acc
+StandardCNN,0.7193
+CustomCNN,0.72
+ResidualCNN,0.714

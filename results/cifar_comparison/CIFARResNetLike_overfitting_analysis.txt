@@ -1,0 +1,4 @@
+Model: CIFARResNetLike
+Max acc gap: 0.1219 at epoch 10
+Max loss gap: 0.3986 at epoch 10
+Potential overfitting detected at epochs: [ 6  7  8  9 10]

@@ -1,0 +1,16 @@
+3.2 Ёксперименты с Residual блоками:
+Ѕазовый Residual блок:
+  ÷ель: –еализовать базовый residual блок.
+    "Basic Residual Block: Forward pass successful"
+    "Basic Residual Block: Parameters: 1200"
+    "Basic Residual Block: Backward pass successful"
+Bottleneck Residual блок:
+  ÷ель: –еализовать bottleneck residual блок.
+    "Bottleneck Residual Block: Forward pass successful"
+    "Bottleneck Residual Block: Parameters: 104"
+    "Bottleneck Residual Block: Backward pass successful"
+Wide Residual блок:
+  ÷ель: –еализовать wide residual блок.
+    "Wide Residual Block: Forward pass successful"
+    "Wide Residual Block: Parameters: 3696"
+    "Wide Residual Block: Backward pass successful"

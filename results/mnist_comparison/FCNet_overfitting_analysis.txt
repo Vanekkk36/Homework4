@@ -1,0 +1,4 @@
+Model: FCNet
+Max acc gap: 0.0073 at epoch 10
+Max loss gap: 0.0349 at epoch 9
+No strong overfitting detected.

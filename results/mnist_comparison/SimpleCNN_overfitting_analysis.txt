@@ -1,0 +1,4 @@
+Model: SimpleCNN
+Max acc gap: 0.0045 at epoch 10
+Max loss gap: 0.0213 at epoch 10
+No strong overfitting detected.

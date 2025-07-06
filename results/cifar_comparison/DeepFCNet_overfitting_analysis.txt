@@ -1,0 +1,4 @@
+Model: DeepFCNet
+Max acc gap: 0.0107 at epoch 10
+Max loss gap: 0.0318 at epoch 10
+No strong overfitting detected.

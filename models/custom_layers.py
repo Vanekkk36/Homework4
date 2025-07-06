@@ -1,0 +1,1 @@
+# Кастомные слои и residual блоки, их веса сохраняются через torch.save(..., 'models/custom_layers.pt') 

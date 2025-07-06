@@ -1,0 +1,4 @@
+Model: CIFARResNetReg
+Max acc gap: -0.0020 at epoch 7
+Max loss gap: -0.0032 at epoch 7
+No strong overfitting detected.

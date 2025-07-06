@@ -1,0 +1,4 @@
+Model: ResNetLike
+Max acc gap: 0.1089 at epoch 9
+Max loss gap: 0.3529 at epoch 9
+Potential overfitting detected at epochs: [2 5 6 8 9]

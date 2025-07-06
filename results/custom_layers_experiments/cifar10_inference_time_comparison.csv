@@ -1,0 +1,4 @@
+model,inference_time
+StandardCNN,7.07261323928833
+CustomCNN,7.15208625793457
+ResidualCNN,6.952757358551025

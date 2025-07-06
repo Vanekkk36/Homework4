@@ -1,0 +1,1 @@
+# Модели SimpleCNN, ResNetLike, CIFARResNetLike, CIFARResNetReg и их веса сохраняются через torch.save(..., 'models/cnn_models.pt') 

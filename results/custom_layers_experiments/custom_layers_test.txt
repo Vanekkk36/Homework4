@@ -1,0 +1,29 @@
+3.1 Кастомные слои:
+Кастомный сверточный слой:
+ Цель: Реализовать сверточный слой с масштабированием выхода.
+    *  "Custom Conv2D: Forward pass successful"
+    *  "Custom Conv2D: Output shape matches torch.nn.Conv2d"
+    *  "Custom Conv2D: Forward time: 0.001993, Torch Conv2d: 0.000000"
+    *  "Custom Conv2D: Backward pass successful"
+    *  "Custom Conv2D: Backward time: 0.011960, Torch Conv2d: 0.000996"
+Attention-механизм:
+  Цель: Реализовать spatial attention для CNN.
+    *  "Custom Spatial Attention: Forward pass successful"
+    *  "Custom Spatial Attention: Output shape matches input shape"
+    *  "Custom Spatial Attention: Forward time: 0.000000"
+    *  "Custom Spatial Attention: Backward pass successful"
+    *  "Custom Spatial Attention: Backward time: 0.000997"
+Кастомная функция активации:
+  Цель: Реализовать активацию через torch.autograd.Function.
+    *  "Custom Activation: Forward pass successful"
+    *  "Custom Activation: Output shape matches torch.nn.ReLU"
+    *  "Custom Activation: Forward time: 0.000000, Torch ReLU: 0.000000"
+    *  "Custom Activation: Backward pass successful"
+    *  "Custom Activation: Backward time: 0.000000, Torch ReLU: 0.000000"
+Кастомный pooling слой:
+  Цель: Реализовать среднее между max и avg pooling.
+    *  "Custom Pooling: Forward pass successful"
+    *  "Custom Pooling: Output shape matches torch.nn.MaxPool2d"
+    *  "Custom Pooling: Forward time: 0.000000, Torch MaxPool2d: 0.000000"
+    *  "Custom Pooling: Backward pass successful"
+    *  "Custom Pooling: Backward time: 0.001012, Torch MaxPool2d: 0.000000"

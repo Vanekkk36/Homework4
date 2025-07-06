@@ -1,0 +1,1 @@
+# Модели FCNet, DeepFCNet и их веса сохраняются через torch.save(..., 'models/fc_models.pt') 
