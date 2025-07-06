@@ -176,7 +176,6 @@ No strong overfitting detected.
 Inference time on test set: 6.55 sec
 ```
 ### Анализ и выводы
-```
 
 DeepFCNet:
 
